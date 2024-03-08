@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/omar-sales-team/static/css/main.250d7d87.css",
-    "main.js": "/omar-sales-team/static/js/main.c364f7cd.js",
-    "static/js/453.7f364c7c.chunk.js": "/omar-sales-team/static/js/453.7f364c7c.chunk.js",
-    "static/media/ranti.png": "/omar-sales-team/static/media/ranti.8dd4ecb41ebe93f324d1.png",
-    "static/media/Bunmi.png": "/omar-sales-team/static/media/Bunmi.dfbeadb3c67c9a08a0c5.png",
-    "static/media/omar.png": "/omar-sales-team/static/media/omar.1f21ec05b8685989e607.png",
-    "static/media/twitter.png": "/omar-sales-team/static/media/twitter.e4f83bef4191a65e9c7d.png",
-    "static/media/linkedin.png": "/omar-sales-team/static/media/linkedin.f249b38224ca41a0b909.png",
-    "static/media/logo.svg": "/omar-sales-team/static/media/logo.6ce24c58023cc2f8fd88.svg",
-    "index.html": "/omar-sales-team/index.html",
-    "main.250d7d87.css.map": "/omar-sales-team/static/css/main.250d7d87.css.map",
-    "main.c364f7cd.js.map": "/omar-sales-team/static/js/main.c364f7cd.js.map",
-    "453.7f364c7c.chunk.js.map": "/omar-sales-team/static/js/453.7f364c7c.chunk.js.map"
+    "main.css": "/static/css/main.eb700ec5.css",
+    "main.js": "/static/js/main.f1d03ed6.js",
+    "static/js/453.7f364c7c.chunk.js": "/static/js/453.7f364c7c.chunk.js",
+    "static/media/ranti.png": "/static/media/ranti.8dd4ecb41ebe93f324d1.png",
+    "static/media/Bunmi.png": "/static/media/Bunmi.dfbeadb3c67c9a08a0c5.png",
+    "static/media/omar.png": "/static/media/omar.1f21ec05b8685989e607.png",
+    "static/media/twitter.png": "/static/media/twitter.e4f83bef4191a65e9c7d.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/index.html",
+    "main.eb700ec5.css.map": "/static/css/main.eb700ec5.css.map",
+    "main.f1d03ed6.js.map": "/static/js/main.f1d03ed6.js.map",
+    "453.7f364c7c.chunk.js.map": "/static/js/453.7f364c7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.250d7d87.css",
-    "static/js/main.c364f7cd.js"
+    "static/css/main.eb700ec5.css",
+    "static/js/main.f1d03ed6.js"
   ]
 }
